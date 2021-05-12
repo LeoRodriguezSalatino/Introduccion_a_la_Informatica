@@ -1,0 +1,16 @@
+Git
+Registra los cambios realizados sobre un archivo o conjunto 
+de archivos a lo largo del tiempo. Es muy útil para compartir proyectos con distintas personas, tener varias versiones de un mismo proyecto y poder guardar proyectos en la nube.
+
+Repositorio local: es el que tiene todos los archivos (que hayas guardado en él) en la computadora.
+Commits: son los paquetes que nos van a permitir ir haciendo un seguimiento de los cambios que vamos realizando. Los commits van a ser nuestro historial de cambios que se fueron haciendo en el proyecto.
+
+Comandos
+git init : crea un repositorio local.
+git config user.name "nombreUsuario"
+git config user.email "emailUsuario"
+git remote add origin (URL) : apunta a repositorio remoto.
+git add . : agrega todos los archivos de la carpeta.
+git add nombreArchivo : agrega solo el archivo nombrado.
+git commit -m "mensaje" : comitea los cambios realizados.
+git status : seguimiento del estado de todos los archivos del repositorio.

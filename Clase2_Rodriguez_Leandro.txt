@@ -1,0 +1,21 @@
+Terminal
+Programa que está presente en todos los sistemas operativos. Usando la terminal podemos darle órdenes al sistema.
+
+Comando
+Es una orden o instrucción capaz de ser interpretada y ejecutada por la computadora.
+Comandos básicos
+pwd: Mostrar el nombre de la carpeta en el que uno se encuentra situado (print working directory).
+cd nombreCarpeta: Cambiar la carpeta de trabajo. Con este comando nos podemos mover entre diferentes directorios. Si queremos ir a un directorio en particular.
+cd .. Retrocede una carpeta.
+ls: Listar el contenido de directorios (list): Este comando lista los ficheros y carpetas.
+mkdir nombreCarpeta: Crear un carpeta (make directory).
+rmdir: Borrar un carpeta (remove directory).
+gedit: Crear y editar archivos de texto.
+rm nombreArchivo.extension: Elimina archivo.
+mv nombreAnterior nombreNuevo: Cambia el nombre de un archivo.
+cp: Copiar un archivo o carpeta en el directorio especificado (copy)
+cp -r: Copiar carpetas
+lmv: Mover un archivo o carpeta a un archivo o carpeta (move)
+clear: Limpia todo lo escrito en la terminal.
+touch nombreArchivo.extension: Crea un archivo de texto con el nombre indicado.
+

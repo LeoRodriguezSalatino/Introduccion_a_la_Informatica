@@ -1,0 +1,3 @@
+1- El sistema de control de versiones Git fue creado por Linux Torvalds en el 2005 para gestionar los cambios realizados en archivos. También proporciona herramientas para trabajar en equipo de manera organizada.
+2- Microsoft compró GitHub en el 2018 por un valor de 7500 millones de dólares.
+3- Si, desde la página web github.com y desde su aplicación GitHub Desktop.
